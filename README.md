@@ -31,6 +31,14 @@ below example
 **Good Job. You have created a new repository including a readme file and you have learned
 how to write a markdown document and clone a repo.**
 
+![](Lab01.jpg)
+
+Figure 1: Clone
+
+![](Lab011.jpg)
+
+Figure 2: Git Example
+
 ### Exercise 2 - Forking
 - On GitHub, navigate to the octocat/Spoon-Knife repository
 - Fork this repository
